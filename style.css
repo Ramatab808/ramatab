@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #fefaf3;
+}
+
+.logo-container {
+  text-align: center;
+  padding: 60px 20px;
+  background-color: #ffffff;
+}
+
+.homepage-logo {
+  max-width: 500px;
+  width: 90%;
+  height: auto;
+}
